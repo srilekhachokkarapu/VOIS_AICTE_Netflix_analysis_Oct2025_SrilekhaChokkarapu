@@ -36,4 +36,4 @@ To analyze Netflix's content evolution from 2008 to 2021 and provide data-driven
     Open the `Netflix_Analysis 2 (1).ipynb` file in Jupyter Notebook or Google Colab and run all cells sequentially.
 
 ---
-*This project was completed as part of the [Your Internship Program/Course Name].*
+*This project was completed as part of VOIS AICTE.*
